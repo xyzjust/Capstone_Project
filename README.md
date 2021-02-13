@@ -22,6 +22,6 @@ A mock up of a trading pipeline has successfully been coded up, however, the str
 
 ## Important Files
 
-Capstone_Project.ipynb -- The Jupyter notebook of which the coding is done in, using standard Python libraries such as pandas, numpy, matplotlib and sklearn etc
+`Capstone_Project.ipynb` -- The Jupyter notebook of which the coding is done in, using standard Python libraries such as pandas, numpy, matplotlib and sklearn etc
 
-Capstone Project Report.pdf -- A report that goes into the project's detail
+`Capstone Project Report.pdf` -- A report that goes into the project's detail
