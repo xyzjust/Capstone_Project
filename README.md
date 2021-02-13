@@ -12,12 +12,12 @@ A mock up of a trading pipeline has successfully been coded up, however, the str
 
 ## Dependencies/Packages used
 
-Python : **3.7.6**
-xgboost  :  **1.3.0.post0**
-scikit-learn  :  **0.23.2**
-pandas  :  **1.1.3**
-numpy  :  **1.19.2**
-matplotlib  :  **3.3.2**
+- Python : **3.7.6**
+- xgboost  :  **1.3.0.post0**
+- scikit-learn  :  **0.23.2**
+- pandas  :  **1.1.3**
+- numpy  :  **1.19.2**
+- matplotlib  :  **3.3.2**
 
 
 ## Important Files
