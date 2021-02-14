@@ -1,6 +1,7 @@
 # CapstoneProject
 
 #### Build an automatica trading bot by leveraging ML techniques
+Medium Article: https://xyzjust.medium.com/ml-assisted-trading-strategy-dsnd-capstone-project-6859b50c27b1?source=friends_link&sk=7ca253c02fe9f95d21ef9a5a274668b8
 
 
 ## Motivation
