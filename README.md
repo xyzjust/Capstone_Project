@@ -9,7 +9,7 @@ The practice of using machines to provide and follow through with a trading stra
 
 ## Result
 A mock up of a trading pipeline has successfully been coded up with r2_score of just above 0.3 obtained on XGBoost models. The models successfully executed some trades for December 2020 in the simulation:
-![alt text](https://raw.githubusercontent.com/xyzjust/Capstone_Project/main/example_plot.png)
+![alt text](https://raw.githubusercontent.com/xyzjust/Capstone_Project/main/trade_simulation.png)
 
 ## Dependencies/Packages used
 
